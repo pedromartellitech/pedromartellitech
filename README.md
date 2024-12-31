@@ -14,75 +14,17 @@ Além disso, estou em busca de novas oportunidades para aplicar minhas habilidad
     </a>
 </p>
 
----
+<p>
+    <a href="https://www.linkedin.com/in/pedro-martelli/">
+        <img 
+            alt="LinkedIn" 
+            title="Me siga no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Follow%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>    
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0-2048x2048.png" 
-/>
-
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol-2048x1152.png" 
-/>
-
----
-
-### 📊 Estatísticas
+## Estatísticas
 
 <p>
   <img 
@@ -94,14 +36,11 @@ Além disso, estou em busca de novas oportunidades para aplicar minhas habilidad
   />
 </p>
 
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartellitech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<p>
+  <img 
+    align="left" 
+    alt="Top Linguagens" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartellitech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
-
- 
