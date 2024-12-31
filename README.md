@@ -80,6 +80,8 @@ Além disso, estou em busca de novas oportunidades para aplicar minhas habilidad
     src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol-2048x1152.png" 
 />
 
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -96,7 +98,7 @@ Além disso, estou em busca de novas oportunidades para aplicar minhas habilidad
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartellitech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
