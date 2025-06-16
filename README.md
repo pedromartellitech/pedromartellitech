@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Pedro Martelli!
 
-Sou formado em Análise e Desenvolvimento de Sistemas e, atualmente, estou cursando uma pós-graduação em Gestão de Equipes e Projetos de TI. Tenho grande interesse por Arquitetura de Software e estou sempre buscando expandir meus conhecimentos nas áreas de Gestão de Projetos e Desenvolvimento de Software. 
+Sou formado em Análise e Desenvolvimento de Sistemas e, atualmente, estou cursando uma pós-graduação em Gestão de Equipes e Projetos de TI. Tenho grande interesse por Arquitetura de Software, IA e Ciência de Dados.
 
-Além disso, estou em busca de novas oportunidades para aplicar minhas habilidades em **Python**, **Excel**, **GitHub**, **C#**, e outras tecnologias, enquanto continuo aprendendo e me desenvolvendo.
+Além disso, estou em busca de novas oportunidades para aplicar minhas habilidades em **Python**, **Excel**, **GitHub**, **C#**, **Git**, **Power Bi**, **SQL**, **Pandas**, **NumPAy** e outras tecnologias, enquanto continuo aprendendo e me desenvolvendo.
 
   </p>
     <a href="https://github.com/pedromartellitech?tab=followers">
