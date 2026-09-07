@@ -65,19 +65,25 @@ Continuar evoluindo na área de tecnologia, contribuindo para projetos que envol
   </a>
 </p>
 
-### 📊 Estatísticas do GitHub
+### 📊 Atividade no GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pedromartellitech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    alt="Estatísticas do GitHub de Pedro Martelli"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartellitech&theme=tokyonight&layout=compact&custom_title=Linguagens%20mais%20utilizadas&langs_count=9"
-    alt="Linguagens mais utilizadas"
-    height="180"
-  />
+  <a href="https://github.com/pedromartellitech">
+    <img src="https://img.shields.io/github/followers/pedromartellitech?style=for-the-badge&logo=github&label=Seguidores&color=C66A4A" alt="Seguidores no GitHub" />
+  </a>
+  <a href="https://github.com/pedromartellitech?tab=repositories">
+    <img src="https://img.shields.io/badge/Projetos-Ver%20reposit%C3%B3rios-C66A4A?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedromartellitech&bg_color=0D1117&color=C66A4A&line=C66A4A&point=FFFFFF&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20no%20GitHub" alt="Gráfico de contribuições de Pedro Martelli" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/pedromartellitech">
+    <img src="https://img.shields.io/badge/Acompanhe%20meus%20projetos%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acompanhe meus projetos no GitHub" />
+  </a>
 </p>
 
 ---
