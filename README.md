@@ -23,7 +23,7 @@ Formado em Análise e Desenvolvimento de Sistemas · Pós-graduando em Gestão d
 <a href="https://github.com/pedromartellitech">
   <img src="https://img.shields.io/badge/GitHub-Explorar%20projetos-242424?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="COLE_AQUI_O_LINK_DO_SEU_PORTFOLIO">
+<a href="[COLE_AQUI_O_LINK_DO_SEU_PORTFOLIO](https://pedromartellitech.github.io/pedro-martelli/)">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-Acessar-C66A4A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
 </a>
 
