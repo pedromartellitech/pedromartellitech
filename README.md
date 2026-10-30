@@ -1,237 +1,133 @@
+<!-- Pedro Martelli · README de perfil · Grafite + Terracota -->
 
-<!-- =========================================================
-     PEDRO MARTELLI | GITHUB PROFILE
-     Identidade: Grafite + Terracota
-     ========================================================= -->
+<p align="center">
+  <img src="./assets/profile/hero.svg" width="100%" alt="Pedro Martelli — sistemas, dados e processos. Entender o problema. Construir a solução." />
+</p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D0D0D,50:242424,100:C66A4A&text=Pedro%20Martelli&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Tecnologia%20%7C%20Processos%20%7C%20Gest%C3%A3o&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Pedro Martelli — Tecnologia, Processos e Gestão" />
+### Analista de Implantação de Sistemas Nível 1
 
-<br>
+Experiência com sistemas e processos. Projetos em desenvolvimento e dados.
 
-### Transformando necessidades em soluções.
+<p>
+  <a href="https://pedromartellitech.github.io/pedro-martelli/"><img src="./assets/profile/button-portfolio.svg" width="172" height="42" alt="Explorar meu portfólio" /></a>
+  <a href="https://www.linkedin.com/in/pedro-martelli/"><img src="./assets/profile/button-linkedin.svg" width="148" height="42" alt="Conectar no LinkedIn" /></a>
+  <a href="mailto:pedromartelli156@gmail.com"><img src="./assets/profile/button-email.svg" width="148" height="42" alt="Entrar em contato por e-mail" /></a>
+</p>
 
-**Analista de Implantação de Sistemas Nível 1**  
-Formado em Análise e Desenvolvimento de Sistemas · Pós-graduando em Gestão de TI e Gerenciamento de Projetos de TI
-
-<br>
-
-<a href="https://www.linkedin.com/in/pedro-martelli/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-C66A4A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:pedromartelli156@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-242424?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Pedro Martelli" />
-</a>
-<a href="https://pedromartellitech.github.io/pedro-martelli/">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-Acessar-C66A4A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
-</a>
+[Sobre](#sobre) &nbsp; / &nbsp; [Projetos](#projetos) &nbsp; / &nbsp; [Tecnologias](#tecnologias) &nbsp; / &nbsp; [Formação](#formação) &nbsp; / &nbsp; [Contato](#contato)
 
 </div>
 
 <br>
 
----
+## Sobre
 
-## 01 / Sobre mim
+Sou **Pedro Martelli**, formado em **Análise e Desenvolvimento de Sistemas pela UNIP**. Trabalho com implantação, configuração e suporte a sistemas, acompanhando de perto as necessidades de quem depende da tecnologia para trabalhar.
 
-Sou **Pedro Martelli**, profissional de Tecnologia da Informação, formado em **Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP)** e atualmente cursando duas pós-graduações: **Gestão de TI** e **Gerenciamento de Projetos de TI**.
+Essa experiência me ensinou a investigar falhas, entender processos e traduzir dúvidas em ações concretas. Levo essa base para meus projetos de **desenvolvimento de software e análise de dados**, conectando a lógica do código à rotina de uso.
 
-Atuo como **Analista de Implantação de Sistemas Nível 1**, com experiência em suporte técnico, implantação, configuração de sistemas e relacionamento com clientes. Essa trajetória me permite compreender a tecnologia tanto pela perspectiva técnica quanto pela realidade de quem utiliza as soluções no dia a dia.
+Atualmente, curso pós-graduações em **Gestão de TI** e **Gerenciamento de Projetos de TI**, ampliando minha visão sobre planejamento, organização e entrega de soluções.
 
-Meu interesse está na interseção entre **desenvolvimento de software, arquitetura, dados, inteligência artificial e governança de TI**. Busco construir uma carreira que una capacidade técnica, análise de processos e visão estratégica, transformando problemas reais em soluções funcionais, sustentáveis e orientadas a valor.
-
-> **Minha perspectiva:** tecnologia não é apenas escrever código ou implementar ferramentas. É compreender o problema, estruturar uma solução e garantir que ela produza resultados.
+> **Meu ponto de partida é o problema. A tecnologia vem para resolvê-lo.**
 
 <br>
 
-## 02 / Meu posicionamento
+## Projetos
+
+Aplicações que aproximam meu conhecimento técnico de situações reais.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ Tecnologia aplicada</h3>
-      <p>Desenvolvimento, configuração e implantação de soluções com foco em funcionalidade, integração e experiência do usuário.</p>
+      <a href="https://pedromartellitech.github.io/pedro-martelli/">
+        <img src="./assets/profile/project-portfolio.svg" width="100%" alt="Projeto 01 — Portfólio Profissional" />
+      </a>
+      <h3>Portfólio Profissional</h3>
+      <p>Uma aplicação web para apresentar minha trajetória, projetos e conteúdos sobre tecnologia.</p>
+      <p><strong>O que exploro:</strong> organização de conteúdo, identidade visual, interfaces e responsividade.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <p>
+        <a href="https://pedromartellitech.github.io/pedro-martelli/"><strong>Ver online ↗</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/pedromartellitech/pedro-martelli">Código-fonte</a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Dados e análise</h3>
-      <p>Organização e interpretação de informações para apoiar decisões, acompanhar indicadores e identificar oportunidades de melhoria.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔄 Processos e projetos</h3>
-      <p>Compreensão de fluxos, requisitos e etapas de entrega, conectando necessidades de negócio à execução técnica.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧭 Gestão e governança</h3>
-      <p>Interesse em alinhamento estratégico, eficiência operacional, gestão de riscos e geração de valor por meio da TI.</p>
+      <a href="https://github.com/pedromartellitech/Sistema-de-Vendas">
+        <img src="./assets/profile/project-sales.svg" width="100%" alt="Projeto 02 — Sistema de Vendas" />
+      </a>
+      <h3>Sistema de Vendas</h3>
+      <p>Uma aplicação para organizar vendas, produtos, estoque e informações financeiras de uma loja de variedades.</p>
+      <p><strong>O que exploro:</strong> persistência em banco de dados, regras da operação e relatórios interativos.</p>
+      <p><code>Python</code> <code>Streamlit</code> <code>SQLite</code></p>
+      <p>
+        <a href="https://github.com/pedromartellitech/Sistema-de-Vendas"><strong>Explorar projeto ↗</strong></a>
+      </p>
     </td>
   </tr>
 </table>
-
-<br>
-
-## 03 / Projetos em destaque
-
-Projetos são a forma mais concreta de demonstrar como transformo conhecimento em soluções. Aqui estão algumas iniciativas que representam minha evolução técnica e profissional.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💼 Portfólio Profissional</h3>
-      <p>Uma experiência web desenvolvida para apresentar minha trajetória, competências, projetos e conteúdos sobre tecnologia.</p>
-      <p><strong>Foco:</strong> Desenvolvimento web, identidade visual, responsividade e publicação.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-242424?style=flat-square&logo=html5&logoColor=E34F26" />
-        <img src="https://img.shields.io/badge/CSS3-242424?style=flat-square&logo=css&logoColor=1572B6" />
-        <img src="https://img.shields.io/badge/JavaScript-242424?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-      </p>
-      <a href="COLE_AQUI_O_LINK_DO_SEU_PORTFOLIO"><strong>↗ Acessar portfólio</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💰 Finance OS</h3>
-      <p>Sistema pessoal de gestão financeira desenvolvido com Python e Streamlit, com lançamentos, organização de contas e visualização de indicadores.</p>
-      <p><strong>Foco:</strong> Aplicações de dados, persistência, dashboards e experiência de uso.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-242424?style=flat-square&logo=python&logoColor=3776AB" />
-        <img src="https://img.shields.io/badge/Streamlit-242424?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
-        <img src="https://img.shields.io/badge/SQLite-242424?style=flat-square&logo=sqlite&logoColor=003B57" />
-      </p>
-      <a href="COLE_AQUI_O_LINK_PUBLICO_DO_FINANCE_OS"><strong>↗ Explorar repositório</strong></a>
-    </td>
-  </tr>
-</table>
-
-<sub>Os projetos apresentados refletem iniciativas reais. Novas funcionalidades, demonstrações e estudos de caso serão adicionados conforme sua evolução.</sub>
-
-<br>
-
-## 04 / Tecnologias e ferramentas
-
-<div align="center">
-
-### Desenvolvimento e programação
-
-<img src="https://skillicons.dev/icons?i=python,cs,html,css,js&theme=dark" alt="Python, C Sharp, HTML, CSS e JavaScript" />
-
-<br><br>
-
-### Dados, análise e aplicações
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="MySQL e SQLite" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-
-<br><br>
-
-### Desenvolvimento, colaboração e produtividade
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark" alt="Git, GitHub, VS Code, Visual Studio e Postman" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/Monday-242424?style=for-the-badge&logo=mondaydotcom&logoColor=white" alt="Monday" />
-
-</div>
-
-<br>
 
 <details>
-<summary><strong>📌 Como aplico essas competências</strong></summary>
+<summary><strong>Outras iniciativas e estudos</strong></summary>
 
 <br>
 
-| Área | Aplicação |
-|---|---|
-| **Programação** | Desenvolvimento de aplicações, automações e construção de soluções web. |
-| **Dados** | Tratamento, análise, consultas SQL e construção de indicadores. |
-| **Implantação** | Configuração de sistemas, acompanhamento de processos e suporte à utilização. |
-| **Ferramentas** | Versionamento, testes de APIs, organização de atividades e colaboração. |
-| **Gestão** | Estudos e aplicação progressiva de conceitos de projetos, processos e governança. |
+| Iniciativa | Proposta | Tecnologias |
+| :--- | :--- | :--- |
+| **Finance OS** | Projeto pessoal de gestão financeira, com lançamentos, organização de contas e indicadores. | Python · Streamlit · SQLite |
+| [**Scripts em Python**](https://github.com/pedromartellitech/python-scripts) | Coleção de scripts e estudos de programação. | Python |
+| [**Estudos em C#**](https://github.com/pedromartellitech/scripts-csharp) | Repositório dedicado a scripts e estudos da linguagem. | C# |
 
 </details>
 
 <br>
 
-## 05 / Formação e desenvolvimento
+## Tecnologias
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Formação acadêmica</h3>
-      <p><strong>Análise e Desenvolvimento de Sistemas</strong><br>Universidade Paulista (UNIP)<br>Graduação concluída</p>
-      <p><strong>Gestão de TI</strong><br>Pós-graduação em andamento</p>
-      <p><strong>Gerenciamento de Projetos de TI</strong><br>Pós-graduação em andamento</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Áreas de aprofundamento</h3>
-      <p>• Arquitetura e Desenvolvimento de Software<br>• Inteligência Artificial e Ciência de Dados<br>• Gestão e Governança de TI<br>• Gerenciamento de Projetos<br>• Implantação e Integração de Sistemas<br>• Análise e melhoria de processos</p>
-    </td>
-  </tr>
-</table>
+Ferramentas presentes no meu trabalho, na minha formação e nos meus projetos.
+
+| Frente | Tecnologias e ferramentas |
+| :--- | :--- |
+| **Desenvolvimento** | Python · C# · HTML · CSS · JavaScript |
+| **Dados e aplicações** | SQL · SQLite · MySQL · Pandas · NumPy · Streamlit |
+| **Análise e visualização** | Power BI · Excel |
+| **Código e colaboração** | Git · GitHub · VS Code · Visual Studio · Postman |
+| **Organização de atividades** | Jira · Monday |
+
+<details>
+<summary><strong>Como conecto essas frentes</strong></summary>
 
 <br>
 
-## 06 / Minha forma de pensar tecnologia
+- **Sistemas:** implantação, configuração, investigação de problemas e orientação sobre o uso das soluções.
+- **Desenvolvimento:** aplicações web e projetos em Python para praticar programação e resolver necessidades específicas.
+- **Dados:** organização de informações, consultas, tratamento e construção de indicadores.
+- **Processos e projetos:** estudo de planejamento, requisitos, acompanhamento de entregas e governança de TI.
 
-```text
-NECESSIDADE
-    │
-    ▼
-COMPREENDER O PROBLEMA
-    │
-    ▼
-ANALISAR PROCESSOS E REQUISITOS
-    │
-    ▼
-ESTRUTURAR A SOLUÇÃO
-    │
-    ▼
-DESENVOLVER / CONFIGURAR / IMPLANTAR
-    │
-    ▼
-VALIDAR E ACOMPANHAR
-    │
-    ▼
-GERAR VALOR
-```
-
-Acredito que uma boa solução começa antes da ferramenta. Ela exige compreender o contexto, identificar o que realmente precisa ser resolvido e escolher uma abordagem coerente com os objetivos, recursos e necessidades envolvidos.
+</details>
 
 <br>
 
-## 07 / GitHub em números
+## Formação
 
-<div align="center">
+| Formação | Instituição / situação |
+| :--- | :--- |
+| **Análise e Desenvolvimento de Sistemas** | Universidade Paulista — UNIP · Concluída |
+| **Pós-graduação em Gestão de TI** | Em andamento |
+| **Pós-graduação em Gerenciamento de Projetos de TI** | Em andamento |
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pedromartellitech&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C66A4A&icon_color=C66A4A&text_color=E5E5E5&include_all_commits=true&count_private=false" alt="Estatísticas públicas do GitHub de Pedro Martelli" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartellitech&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C66A4A&text_color=E5E5E5&langs_count=6" alt="Linguagens mais utilizadas nos repositórios públicos" />
-
-<br>
-
-<sub>Estatísticas geradas a partir da atividade pública do GitHub. A distribuição de linguagens representa o código dos repositórios, não o nível de proficiência profissional.</sub>
-
-</div>
+**Direções de estudo:** desenvolvimento de software, arquitetura, análise de dados, inteligência artificial e governança de TI.
 
 <br>
 
-## 08 / Próximos passos
+## Como trabalho
 
-- [ ] Publicar novos projetos com documentação e demonstrações.
-- [ ] Aprofundar conhecimentos em arquitetura e desenvolvimento de software.
-- [ ] Evoluir aplicações de dados e inteligência artificial.
-- [ ] Desenvolver estudos de caso sobre implantação, processos e gestão de TI.
-- [ ] Consolidar uma trajetória profissional que integre tecnologia e estratégia.
+1. **Entender o contexto.** Investigar a necessidade, os usuários e o processo envolvido.
+2. **Estruturar a solução.** Definir requisitos, organizar informações e escolher uma abordagem compatível com o problema.
+3. **Construir e validar.** Desenvolver ou configurar a solução e verificar seu funcionamento na prática.
+4. **Acompanhar e evoluir.** Documentar aprendizados, observar dificuldades e ajustar o que for necessário.
 
 <br>
 
@@ -239,27 +135,16 @@ Acredito que uma boa solução começa antes da ferramenta. Ela exige compreende
 
 <div align="center">
 
-### Vamos construir conexões que gerem valor?
+## Contato
 
-Estou aberto a trocar conhecimentos, conhecer projetos e conversar sobre oportunidades relacionadas a desenvolvimento, implantação, dados e gestão de TI.
+**Vamos conversar sobre o próximo projeto?**
 
-<br>
+Tenho interesse em oportunidades em **implantação de sistemas, desenvolvimento e dados**.
 
-<a href="https://www.linkedin.com/in/pedro-martelli/">
-  <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Martelli-C66A4A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Pedro Martelli" />
-</a>
-<a href="https://github.com/pedromartellitech">
-  <img src="https://img.shields.io/badge/GitHub-pedromartellitech-242424?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Pedro Martelli" />
-</a>
-
-<br><br>
-
-**“Tecnologia é ferramenta. Estratégia é saber onde utilizá-la.”**
-
-<sub>Pedro Martelli · Tecnologia, processos e gestão</sub>
+[Portfólio](https://pedromartellitech.github.io/pedro-martelli/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/pedro-martelli/) &nbsp; / &nbsp; [pedromartelli156@gmail.com](mailto:pedromartelli156@gmail.com)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D0D0D,50:242424,100:C66A4A" width="100%" alt="Rodapé decorativo" />
+<img src="./assets/profile/signature.svg" width="100%" alt="Pedro Martelli — Entender o problema. Construir a solução." />
 
 </div>
